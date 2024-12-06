@@ -1,9 +1,0 @@
-android_app_import {
-	name: "LawnIcons",
-	apk: "LawnIcons.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	product_specific: true,
-}
