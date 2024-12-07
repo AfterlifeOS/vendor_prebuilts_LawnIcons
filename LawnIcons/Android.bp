@@ -1,7 +1,9 @@
 android_app_import {
 	name: "LawnIcons",
 	apk: "LawnIcons.apk",
-	certificate: "platform",
+	owner: "Lawnchair",
+	preprocessed: true,
+	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},
